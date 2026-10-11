@@ -1,0 +1,12 @@
+**/build/
+**/.Xil/
+**/.slang/
+**/*.bit
+**/*.vcd
+**/*.vvp
+**/*.wdb
+**/*.jou
+**/*.log
+**/*.cache/
+**/*.runs/
+**/*.sim/
